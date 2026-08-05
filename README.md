@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Costin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full-stack+web+developer;Building+fast,+reliable+products;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+PostgreSQL&center=true&width=440&height=50&font=Fira+Code&color=58A6FF&vCenter=true" alt="Typing SVG" />
+  Full-stack Software Developer
 </p>
 
 ---
@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
