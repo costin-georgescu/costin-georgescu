@@ -24,10 +24,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=costin-georgescu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+### Streak
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/costin-georgescu?label=Followers&style=flat-square&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/public-repos/costin-georgescu?label=Public%20Repos&style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=costin-georgescu&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<details>
+  <summary>💬 A random dev quote</summary>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  </p>
+</details>
 
 ---
 
