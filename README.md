@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Costin 👋</h1>
 
 <p align="center">
-  Full-stack web developer building fast, reliable products with TypeScript, React & Node.
+  <img src="https://readme-typing-svg.demolab.com?lines=Full-stack+web+developer;Building+fast,+reliable+products;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+PostgreSQL&center=true&width=440&height=50&font=Fira+Code&color=58A6FF&vCenter=true" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,22 +24,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=costin-georgescu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-### Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=costin-georgescu&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<details>
-  <summary>💬 A random dev quote</summary>
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  </p>
-</details>
-
 ---
 
 <p align="center">
   <a href="https://github.com/costin-georgescu?tab=repositories">Projects</a> &nbsp;·&nbsp;
   Reach me at <a href="mailto:130043906+costin-georgescu@users.noreply.github.com">email</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&fontSize=0" alt="Footer Banner" width="100%" />
