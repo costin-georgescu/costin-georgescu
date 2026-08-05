@@ -21,7 +21,9 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=costin-georgescu&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/costin-georgescu?label=Followers&style=flat-square&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/public-repos/costin-georgescu?label=Public%20Repos&style=flat-square&logo=github&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/costin-georgescu&query=created_at&label=On%20GitHub%20since&style=flat-square&logo=github&logoColor=white" alt="Member since" />
 </p>
 
 ---
