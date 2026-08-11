@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
 </p>
 
-### Contribution Graph
+<!-- ### Contribution Graph
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=costin-georgescu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p> -->
 
