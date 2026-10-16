@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Costin 👋</h1>
 
 <p align="center">
-  Software Engineer
+  Full-stack Software Engineer with a high focus on shipping.
 </p>
 
 ---
